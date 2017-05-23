@@ -1,0 +1,10 @@
+{
+  "parser": "babel-eslint",
+  "plugins": [
+    "react"
+  ],
+  "rules": {
+    "object-curly-spacing": [2, "always"],
+    "react/jsx-curly-spacing": [2, "never"]
+  }
+}
